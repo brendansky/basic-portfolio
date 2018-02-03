@@ -13,7 +13,13 @@ header{
     height: 75px;
     background-color: #ffffff;
     border-bottom: solid 3px #cccccc;
+    z-index: 2;
+    position: fixed;
+    top: 0%;
+
+
 }
+
 h1{
     color: #ffffff;
     background-color: #4aaaa5;
@@ -45,6 +51,8 @@ h3{
 .pages{
     height: 75px;
     margin-right: 175px;
+    position: absolute;
+    left: 60%;
 }
 .links{
     color: #777777;
@@ -63,6 +71,8 @@ h3{
     float: left;
     border: solid 3px #dddddd;
     background-color: #ffffff;
+    position: absolute;
+    top: 12%;
 
 }
 .profile-pic{
@@ -80,10 +90,13 @@ aside{
     margin-top: 30px;
     margin-left: 30px;
     width: 270px;
+    line-height: 40px;
     float: left;
     border: solid 3px #dddddd;
     background-color: #ffffff;
-    
+    position: absolute;
+    top: 12%;
+    left: 815px;    
 
 }
 .other-websites{
@@ -121,6 +134,8 @@ footer{
     float: left;
     border: solid 3px #dddddd;
     background-color: #ffffff;
+    position: absolute;
+    top: 12%;
 
 }
 
@@ -160,6 +175,8 @@ footer{
     float: left;
     border: solid 3px #dddddd;
     background-color: #ffffff;
+    position: absolute;
+    top: 12%;
 
 }
 
