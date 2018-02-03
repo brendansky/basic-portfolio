@@ -52,7 +52,7 @@ h3{
     height: 75px;
     margin-right: 175px;
     position: absolute;
-    left: 60%;
+    right: 0px;
 }
 .links{
     color: #777777;
@@ -72,7 +72,7 @@ h3{
     border: solid 3px #dddddd;
     background-color: #ffffff;
     position: absolute;
-    top: 12%;
+    top: 80px;
 
 }
 .profile-pic{
@@ -95,7 +95,7 @@ aside{
     border: solid 3px #dddddd;
     background-color: #ffffff;
     position: absolute;
-    top: 12%;
+    top: 80px;
     left: 815px;    
 
 }
@@ -135,7 +135,7 @@ footer{
     border: solid 3px #dddddd;
     background-color: #ffffff;
     position: absolute;
-    top: 12%;
+    top: 80px;
 
 }
 
@@ -176,7 +176,7 @@ footer{
     border: solid 3px #dddddd;
     background-color: #ffffff;
     position: absolute;
-    top: 12%;
+    top: 80px;
 
 }
 
